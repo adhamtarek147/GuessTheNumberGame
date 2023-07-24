@@ -1,5 +1,5 @@
 "use strict";
-// pick a secret number from 1 to 20
+//a secret number from 1 to 20
 let secretNumber = Math.floor(Math.random() * 20) + 1;
 
 //defining essential variables of the game
